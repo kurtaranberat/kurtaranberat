@@ -33,7 +33,7 @@
 <summary>More about Me</summary>
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademagar&layout=compact&theme=tokyonight)
-![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ademagar&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeratKurtaran&layout=compact&theme=tokyonight)
+![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeratKurtaran&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeratKurtaran&theme=tokyonight)
