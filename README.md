@@ -1,4 +1,4 @@
-# Hi there 👋 *I'm Adem* ━ Full-stack Developer
+# Hi there 👋 *I'm Berat* ━ Full-stack Developer
 
 ## Who is this Guy?
 - I'm Berat. I'm an industrial engineering student in Turkey but I decided to become a *software developer* because I am *interested in software* and the world of *programming*. 
