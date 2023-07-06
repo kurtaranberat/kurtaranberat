@@ -18,17 +18,16 @@
 ![Things I know.](https://skillicons.dev/icons?i=vscode,aws,docker,kubernetes,figma,git&theme=dark)
 
 ## Get in touch
-[<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/twitter-dark.svg" width="auto" target="_blank">](https://www.twitter.com/ad3magar)
-[<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto" target="_blank">](https://www.linkedin.com/in/ademagar/)
-[<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" width="auto" target="_blank">](https://www.instagram.com/ad3magar)
+[<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto" target="_blank">](https://www.linkedin.com/in/kurtaran-berat/)
+[<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" width="auto" target="_blank">](https://www.instagram.com/kurtaran_berat)
 
 - LinkedIn: https://www.linkedin.com/in/kurtaran-berat/
 - Instagram: https://www.instagram.com/kurtaran_berat 
 
 ## Contact with me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/ademagar) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ad3magar) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@ademagar)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/kurtaranberat) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kurtaran_berat) 
+
 
 <details>
 <summary>More about Me</summary>
@@ -37,4 +36,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademagar&layout=compact&theme=tokyonight)
 ![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ademagar&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ademagar&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BeratKurtaran&theme=tokyonight)
