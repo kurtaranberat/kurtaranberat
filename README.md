@@ -22,7 +22,7 @@
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto" target="_blank">](https://www.linkedin.com/in/ademagar/)
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" width="auto" target="_blank">](https://www.instagram.com/ad3magar)
 
-- LinkedIn: (https://www.linkedin.com/in/kurtaran-berat/)
+- LinkedIn: https://www.linkedin.com/in/kurtaran-berat/
 - Instagram: https://www.instagram.com/kurtaran_berat 
 
 ## Contact with me
