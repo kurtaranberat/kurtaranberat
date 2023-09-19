@@ -9,7 +9,7 @@
 ## Programming Languages and things that I know and planning to learn!
 
 ### Front-end Technologies
-![Things I know.](https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark)
+![Things I know.](https://skillicons.dev/icons?i=html,css,js&theme=dark)
 
 ### Back-end Technologies
 ![Things I know.](https://skillicons.dev/icons?i=nodejs,mongodb,python,expressjs&theme=dark)
