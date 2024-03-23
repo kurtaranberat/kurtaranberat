@@ -12,10 +12,10 @@
 ![Things I know.](https://skillicons.dev/icons?i=html,css,js&theme=dark)
 
 ### Back-end Technologies
-![Things I know.](https://skillicons.dev/icons?i=nodejs,mongodb,python,expressjs&theme=dark)
+![Things I know.](https://skillicons.dev/icons?i=nodejs,mongodb,python,laravel,expressjs&theme=dark)
 
 ### Tools and Others
-![Things I know.](https://skillicons.dev/icons?i=vscode,aws,docker,kubernetes,figma,git&theme=dark)
+![Things I know.](https://skillicons.dev/icons?i=vscode,aws,docker,kubernetes,git&theme=dark)
 
 ## Get in touch
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto" target="_blank">](https://www.linkedin.com/in/kurtaran-berat/)
