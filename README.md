@@ -15,7 +15,7 @@
 ![Things I know.](https://skillicons.dev/icons?i=nodejs,python,laravel,expressjs&theme=dark)
 
 ### Tools and Others
-![Things I know.](https://skillicons.dev/icons?i=vscode,aws,docker,mongodb,postgress,kubernetes,git&theme=dark)
+![Things I know.](https://skillicons.dev/icons?i=vscode,aws,docker,mongodb,postgres,kubernetes,git&theme=dark)
 
 ## Get in touch
 [<img src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/linkedin-dark.svg" width="auto" target="_blank">](https://www.linkedin.com/in/kurtaran-berat/)
